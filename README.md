@@ -2,7 +2,7 @@
 
 A personal portfolio and reflective blog for **Keatametse Dolly Bosigo**, a first-year BSc Business Intelligence and Data Analytics student in Gaborone, Botswana. The site supports an application for an industrial attachment as a data analyst.
 
-**Live site:** `https://YOUR-USERNAME.github.io/kea-blog/` *(replace after enabling GitHub Pages)*
+**Live site:** `https://keatametse-dolly.github.io/kea-blog/` *(replace after enabling GitHub Pages)*
 
 ## What's on the site
 
